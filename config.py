@@ -1,5 +1,5 @@
 connection_config = {
-    "account": "SFSENORTHAMERICA-SFSENORTHAMERICA_RGUTIN",
+    "account": "",
     "user": "admin",
     "password": ""
 
